@@ -106,7 +106,7 @@ A web-based project created to explore front-end development and interactive use
 * SQL
 * Generative AI
 * Retrieval-Augmented Generation (RAG)
-* Bano Job Ready
+  
 
 ---
 
